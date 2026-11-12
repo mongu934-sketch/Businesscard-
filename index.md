@@ -1,6 +1,6 @@
 # Luminescence
 
- ** Information Design Student **
+ **Information Design Student**
 
 --- 
 
